@@ -1,5 +1,12 @@
 # LeetCode 1143 Longest Common Subsequence
-
+---
+layout: post
+date: 2020.02.15
+author: qiaw99
+catalog: true
+tags:
+ -dynammic programming
+---
 ## Requirement
 Given two strings text1 and text2, return the length of their longest common subsequence.
 
