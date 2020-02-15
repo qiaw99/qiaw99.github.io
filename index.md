@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+__Hello and welcome to this blog. The motivation of making this blog is that it can help me to memorize the thought to solve problems from LeetCode because I have made decision that I should get started to doing some algorithmic problems for preparing interviews in the future.__  
 
-![Image of fast.ai logo](images/logo.png)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Link to my Github
+You can find other my projects [on my Github](https://www.github.com/qiaw99).  
