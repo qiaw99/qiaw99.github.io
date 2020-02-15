@@ -15,7 +15,7 @@ A linked list can be reversed either iteratively or recursively. Could you imple
 
 
 ## Code
-##### Iterative
+### Iterative
 ```java
 /**
  * Definition for singly-linked list.
@@ -41,7 +41,7 @@ class Solution {
 }
 ```
 
-##### Recursive
+### Recursive
 ```java
 /**
  * Definition for singly-linked list.
