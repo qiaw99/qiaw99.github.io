@@ -21,6 +21,9 @@ use_math: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 158605530
 
+ga_track_id: "UA-158605530-1"
+ga_domain: auto
+
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
