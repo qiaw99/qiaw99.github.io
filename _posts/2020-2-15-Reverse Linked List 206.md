@@ -1,4 +1,4 @@
-# 206Reverse Linked List
+# Reverse Linked List 206
 
 ## Requirement
 Reverse a singly linked list.
