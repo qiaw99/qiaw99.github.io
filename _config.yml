@@ -28,6 +28,10 @@ ga_domain: auto
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 
+# Featured Tags
+featured-tags: true
+featured-condition-size: 0
+
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
