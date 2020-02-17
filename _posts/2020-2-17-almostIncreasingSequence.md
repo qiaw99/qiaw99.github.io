@@ -40,3 +40,5 @@ def almostIncreasingSequence(sequence):
 print(almostIncreasingSequence(sequence)) # True
 ```
 __We could firstly get the longest increasing sequence by using dynamic programming. If the difference of the length of sequence and the length of the longest increasing sequence equal or less than 1, then we should return True because we can remove one of the element in the sequence so that the whole sequence can be monoton increased.__
+
+#### Time complexity: O(n2)
