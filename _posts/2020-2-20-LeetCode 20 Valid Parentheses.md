@@ -33,8 +33,9 @@ __An input string is valid if:__
 > Input: "{ [ ] }"
 
 > Output: true
+
 ## Python Solution
-```python
+```Python
 class Solution:
     def isValid(self, s: str) -> bool:
         if(len(s) == 0):
