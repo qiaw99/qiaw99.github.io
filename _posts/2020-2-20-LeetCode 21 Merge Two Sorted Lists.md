@@ -32,7 +32,6 @@ class Solution:
             return l2
 ```
 
----
 - Iterative:
 ```Python
 class Solution:
