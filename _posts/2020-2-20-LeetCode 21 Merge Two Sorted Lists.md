@@ -33,7 +33,7 @@ class Solution:
 ```
 
 - Iterative:
-```Python
+```python
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
         list1 = l1
