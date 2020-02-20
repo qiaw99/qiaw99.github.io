@@ -35,7 +35,7 @@ __An input string is valid if:__
 > Output: true
 
 ## Python Solution
-```Python
+```python
 class Solution:
     def isValid(self, s: str) -> bool:
         if(len(s) == 0):
