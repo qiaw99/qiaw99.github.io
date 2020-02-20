@@ -40,6 +40,8 @@ Internally you can think of this:
     for (int i = 0; i < len; i++) {
         print(nums[i]);
     }
+    
+---
 ## Python Solution
 ```python
 class Solution:
