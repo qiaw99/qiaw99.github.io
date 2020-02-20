@@ -2,7 +2,7 @@
 ## Requirements:
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
-Do _*not*_ allocate extra space for another array, you must do this by modifying the input array _*in-place*_ with O(1) extra memory.
+Do __*not*__ allocate extra space for another array, you must do this by modifying the input array __*in-place*__ with O(1) extra memory.
 
 The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 
