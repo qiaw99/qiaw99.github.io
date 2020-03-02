@@ -16,6 +16,7 @@ Note that you cannot sell a stock before you buy one.
 > Input: [7,6,4,3,1]
 
 > Output: 0
+
     Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 ## Python Solution
@@ -48,5 +49,5 @@ public class Solution {
         return maxprofit;
     }
 }
-__Time complexity: O(n^2)__ 
 ```
+__Time complexity: O(n^2)__ 
