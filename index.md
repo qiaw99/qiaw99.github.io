@@ -31,7 +31,7 @@
 2023.01 - 2024.01 - Research Assistant @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
 ## 📚<span style="font-family: 'Courier New', monospace;">Publication</span>
-<span style="font-size: 25px">ReWIRED: Instructional Explanations in Teacher-Student Dialogues</span>
+<span style="font-size: 25px; font-family: 'Courier New', monospace;">ReWIRED: Instructional Explanations in Teacher-Student Dialogues</span>
 
 Nils Feldhus, Aliki Anagnostopoulou, João Lucas Mendes de Lemos Lins, **Qianli Wang**, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller
 
@@ -42,7 +42,7 @@ _In submission_
 <br>
 
 <img src="img/LLMCheckup_Logo.png" style="width:30%; height:20%;" align="right">
-<span style="font-size: 25px">LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools</span>
+<span style="font-size: 25px; font-family: 'Courier New', monospace;" >LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations</span>
 
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Josef van Genabith, Leonhard Hennig, and Sebastian Möller
 
@@ -54,7 +54,7 @@ _NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language
 
 
 <img src="img/Interrolang_logo.png" style="width:30%; height:20%;" align="right">
-<span style="font-size: 25px">InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations</span>
+<span style="font-size: 25px; font-family: 'Courier New', monospace;">InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations</span>
 
 Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and Sebastian Möller
 
