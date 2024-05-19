@@ -6,8 +6,9 @@
 
 <br>
 <br>
-
-
+<br>
+<br>
+<br>
 
 ## ✨ <span style="font-family: 'Courier New', monospace;">News</span>
 <span style="font-family: 'Courier New', monospace;">2024-04-19 | LLMCheckup accepted to NAACL 2024 HCI+NLP!</span>
@@ -39,7 +40,7 @@ _In submission_
 
 [OpenReview](https://openreview.net/forum?id=mHgNzfiApQ)
 
-<img src="img/LLMcheckup_logo.png" style="width:30%; height:20%;" align="right">
+<img src="img/LLMCheckup_Logo.png" style="width:30%; height:20%;" align="right">
 <span style="font-size: 18px">LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools</span>
 
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Josef van Genabith, Leonhard Hennig, and Sebastian Möller
