@@ -58,6 +58,8 @@ _NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language
 
 Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and Sebastian Möller
 
+_EMNLP 2023 Findings & BlackboxNLP Workshop_
+
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang/)
 
 ## <span style="font-family: 'Courier New', monospace;">Academic Service</span>
