@@ -10,11 +10,11 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 
 ## ✨ <span style="font-family: 'Courier New', monospace;">News</span>
-2024-04-19 | LLMCheckup accepted to NAACL 2024 HCI+NLP!
+<u>**2024-04-19**</u>: _LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations_ accepted to NAACL 2024 HCI+NLP workshop!
 
-2024-02-28 | Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED)
+<u>**2024-02-28**</u>: Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED)
 
-2023-10-08 | InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations accepted to EMNLP 2023 Findings!
+<u>**2023-10-08**</u>: _InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations_ accepted to EMNLP 2023 Findings!
 
 ## 🧑‍🎓 <span style="font-family: 'Courier New', monospace;">Education Background</span>
 2024-ongoing: Computer Science, PhD, Technische Universität Berlin. Supervised by [Prof. Dr. Sebastian Möller](https://www.tu.berlin/qu/ueber-uns/leitung).
@@ -26,7 +26,9 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 
 ## 🧑‍💻 <span style="font-family: 'Courier New', monospace;">Jobs</span>
-2024.07 - ongoing - NLP researcher @ [Quality and Usability Lab](https://www.tu.berlin/qu), Technische Universität Berlin, Berlin, Germany
+2024.07 - ongoing - NLP Researcher @ [Quality and Usability Lab](https://www.tu.berlin/qu), Technische Universität Berlin, Berlin, Germany
+
+2024.07 - ongoing - Guest Researcher @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
 2023.01 - 2024.01 - Research Assistant @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
