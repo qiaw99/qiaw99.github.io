@@ -1,7 +1,7 @@
-[![GitHub](https://a11ybadges.com/badge?logo=github)](https://github.com/qiaw99) | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=dKmUzp4AAAAJ) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qianliwang/) | [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-1857B6.svg?style=for-the-badge&logo=Semantic-Scholar&logoColor=white)](https://www.semanticscholar.org/author/Qianli-Wang/2257126685)
+[![GitHub](https://a11ybadges.com/badge?logo=github)](https://github.com/qiaw99) | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=dKmUzp4AAAAJ) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qianliwang/) | [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-1857B6.svg?style=for-the-badge&logo=Semantic-Scholar&logoColor=white)](https://www.semanticscholar.org/author/Qianli-Wang/2257126685) | [![Gmail](https://a11ybadges.com/badge?logo=gmail)](mailto:wolfgang61617@gmail.com)
 
 <img src="./img/avatar.jpg" style="width: 10em; height: 12em; border-radius:50%;" align="right"/>
-<span style="font-family: 'Courier New', monospace;">Hi 👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the interpretability and explainability of LLMs. My passion lies in unraveling the complexities of these models to make their inner workings more transparent and their outputs more trustworthy.</span>
+Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the interpretability and explainability of LLMs. My passion lies in unraveling the complexities of these models to make their inner workings more transparent and their outputs more trustworthy.
 
 
 <br>
@@ -10,11 +10,11 @@
 
 
 ## ✨ <span style="font-family: 'Courier New', monospace;">News</span>
-<span style="font-family: 'Courier New', monospace;">2024-04-19 | LLMCheckup accepted to NAACL 2024 HCI+NLP!</span>
+2024-04-19 | LLMCheckup accepted to NAACL 2024 HCI+NLP!
 
-<span style="font-family: 'Courier New', monospace;">2024-02-28 | Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED)</span>
+2024-02-28 | Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED)
 
-<span style="font-family: 'Courier New', monospace;">2023-10-08 | InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations accepted to EMNLP 2023 Findings!</span>
+2023-10-08 | InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations accepted to EMNLP 2023 Findings!
 
 ## 🧑‍🎓 <span style="font-family: 'Courier New', monospace;">Education Background</span>
 2024-ongoing: Computer Science, PhD, Technische Universität Berlin. Supervised by [Prof. Dr. Sebastian Möller](https://www.tu.berlin/qu/ueber-uns/leitung).
@@ -62,7 +62,7 @@ _EMNLP 2023 Findings & BlackboxNLP Workshop_
 
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang/)
 
-## <span style="font-family: 'Courier New', monospace;">Academic Service</span>
+## 👣 <span style="font-family: 'Courier New', monospace;">Academic Service</span>
 - EACL 2024 (secondary reviewer)
 - ACL 2024 (secondary reviewer)
 - EMNLP 2023 (secondary reviewer)
