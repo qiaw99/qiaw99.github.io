@@ -10,7 +10,7 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 
 # ✨ <span style="font-family: 'Courier New', monospace;">News</span>
-<u><b>2024-06-13</b></u>: One new paper in submission: A question answering (resource) paper on the conversational explanation request parsing (CoXQL).
+<u><b>2024-06-12</b></u>: One new paper in submission: A question answering (resource) paper on the conversational parsing explanation requests (CoXQL).
 
 <u><b>2024-04-19</b></u>: _LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations_ accepted to NAACL 2024 HCI+NLP workshop🛕!
 
@@ -42,7 +42,7 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 _In submission_
 
-OpenReview link will follow
+arXiv link will follow
 
 <br>
 
@@ -79,14 +79,14 @@ _EMNLP 2023 Findings_
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang/)
 
 ## 🐾 <span style="font-family: 'Courier New', monospace;">Academic Service</span>
-### 🌟 Conference Reviewer
+### Conference Reviewer
 
-### 🚨 Secondary Reviewer
+### Secondary Reviewer
 `Interpretability and Analysis Models for NLP track`
 - EACL 2024
 - EMNLP 2023
 - ACL 2023 
 - EACL 2023 
 
-### 🚥 Workshop Reviewer
+### Workshop Reviewer
 BlackboxNLP @ EMNLP 2023 (secondary)
