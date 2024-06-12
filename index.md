@@ -9,14 +9,16 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 <br>
 
 
-## ✨ <span style="font-family: 'Courier New', monospace;">News</span>
-<u>**2024-04-19**</u>: _LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations_ accepted to NAACL 2024 HCI+NLP workshop!
+# ✨ <span style="font-family: 'Courier New', monospace;">News</span>
+<u><b>2024-06-13</b></u>: One new paper in submission: A question answering (resource) paper on the conversational explanation request parsing (CoXQL).
 
-<u>**2024-02-28**</u>: Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED)
+<u><b>2024-04-19</b></u>: _LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations_ accepted to NAACL 2024 HCI+NLP workshop🛕!
 
-<u>**2023-10-08**</u>: _InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations_ accepted to EMNLP 2023 Findings!
+<u><b>2024-02-28</b></u>: Two new papers in submission: A follow-up to InterroLang on the conversational examination of self-explaining LLMs (LLMCheckup) and a resource and evaluation paper on instructional explanations in teacher-student dialogues (ReWIRED).
 
-## 🧑‍🎓 <span style="font-family: 'Courier New', monospace;">Education Background</span>
+<u><b>2023-10-08</b></u>: _InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations_ accepted to EMNLP 2023 Findings🦁!
+
+# 🧑‍🎓 <span style="font-family: 'Courier New', monospace;">Education Background</span>
 2024-ongoing: Computer Science, PhD, Technische Universität Berlin. Supervised by [Prof. Dr. Sebastian Möller](https://www.tu.berlin/qu/ueber-uns/leitung).
 
 2021-2023: Computer Science, M.Sc., Technische Universität Berlin. Supervised by [Nils Feldhus](https://www.dfki.de/web/ueber-uns/mitarbeiter/person/nife02) and [Dr.-Ing. Leonhard Hennig](https://www.dfki.de/web/ueber-uns/mitarbeiter/person/lehe02): _A Singular LLM is all you need for dialogue-based explanation regarding NLP tasks_.
@@ -25,14 +27,26 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 
 
-## 🧑‍💻 <span style="font-family: 'Courier New', monospace;">Jobs</span>
-2024.07 - ongoing - NLP Researcher @ [Quality and Usability Lab](https://www.tu.berlin/qu), Technische Universität Berlin, Berlin, Germany
+# 🧑‍💻 <span style="font-family: 'Courier New', monospace;">Jobs</span>
+2024.07 - ongoing: **NLP Researcher** @ [Quality and Usability Lab](https://www.tu.berlin/qu), Technische Universität Berlin, Berlin, Germany
 
-2024.07 - ongoing - Guest Researcher @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
+2024.07 - ongoing: **Guest Researcher** @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
-2023.01 - 2024.01 - Research Assistant @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
+2023.01 - 2024.01: **Research Assistant** @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
-## 📚<span style="font-family: 'Courier New', monospace;">Publication</span>
+# 📑 <span style="font-family: 'Courier New', monospace;">Publication</span>
+## 2024
+<span style="font-size: 25px; font-family: 'Courier New', monospace;">CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems</span>
+
+**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, and Sebastian Möller
+
+_In submission_
+
+OpenReview link will follow
+
+<br>
+
+
 <span style="font-size: 25px; font-family: 'Courier New', monospace;">ReWIRED: Instructional Explanations in Teacher-Student Dialogues</span>
 
 Nils Feldhus, Aliki Anagnostopoulou, João Lucas Mendes de Lemos Lins, **Qianli Wang**, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller
@@ -43,29 +57,36 @@ _In submission_
 
 <br>
 
-<img src="img/LLMCheckup_Logo.png" style="width:30%; height:20%;" align="right">
+<img src="img/LLMCheckup_Logo.png" style="width:20%; height:15%;" align="right">
 <span style="font-size: 25px; font-family: 'Courier New', monospace;" >LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations</span>
 
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Josef van Genabith, Leonhard Hennig, and Sebastian Möller
 
 _NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)_
 
-[GitHub](https://github.com/DFKI-NLP/LLMCheckup) | [arXiv](https://arxiv.org/abs/2401.12576) 
+[arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
 
 <br>
 
-
+## 2023
 <img src="img/Interrolang_logo.png" style="width:30%; height:20%;" align="right">
 <span style="font-size: 25px; font-family: 'Courier New', monospace;">InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations</span>
 
 Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and Sebastian Möller
 
-_EMNLP 2023 Findings & BlackboxNLP Workshop_
+_EMNLP 2023 Findings_
 
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang/)
 
-## 👣 <span style="font-family: 'Courier New', monospace;">Academic Service</span>
-- EACL 2024 (secondary reviewer)
-- ACL 2024 (secondary reviewer)
-- EMNLP 2023 (secondary reviewer)
-- EACL 2023 (secondary reviewer)
+## 🐾 <span style="font-family: 'Courier New', monospace;">Academic Service</span>
+### 🌟 Conference Reviewer
+
+### 🚨 Secondary Reviewer
+`Interpretability and Analysis Models for NLP track`
+- EACL 2024
+- EMNLP 2023
+- ACL 2023 
+- EACL 2023 
+
+### 🚥 Workshop Reviewer
+BlackboxNLP @ EMNLP 2023 (secondary)
