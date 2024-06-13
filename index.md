@@ -42,7 +42,7 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 _In submission_
 
-arXiv link will follow
+[arXiv](https://arxiv.org/abs/2406.08101)
 
 <br>
 
