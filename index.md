@@ -42,7 +42,7 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 _In submission_
 
-[arXiv](https://arxiv.org/abs/2406.08101)
+[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)
 
 <br>
 
@@ -64,7 +64,7 @@ _In submission_
 
 _NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)_
 
-[arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
+[ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9/) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)
 
 <br>
 
