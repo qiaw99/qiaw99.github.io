@@ -1,6 +1,6 @@
 [![GitHub](https://a11ybadges.com/badge?logo=github)](https://github.com/qiaw99) | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=dKmUzp4AAAAJ) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qianliwang/) | [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-1857B6.svg?style=for-the-badge&logo=Semantic-Scholar&logoColor=white)](https://www.semanticscholar.org/author/Qianli-Wang/2257126685) | [![Gmail](https://a11ybadges.com/badge?logo=gmail)](mailto:wolfgang61617@gmail.com)
 
-<img src="./img/avatar.jpg" style="width: 10em; height: 12em; border-radius:50%;" align="right"/>
+<img src="./img/avatar.png" style="width: 25%; height: 25%; border-radius:50%;" align="right"/>
 Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the interpretability and explainability of LLMs. My passion lies in unraveling the complexities of these models to make their inner workings more transparent and their outputs more trustworthy.
 
 
@@ -28,9 +28,9 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 
 # 🧑‍💻 <span style="font-family: 'Courier New', monospace;">Jobs</span>
-2024.07 - ongoing: **NLP Researcher** @ [Quality and Usability Lab](https://www.tu.berlin/qu), Technische Universität Berlin, Berlin, Germany
+2024.07 - ongoing: **NLP Researcher** @ [Quality and Usability Lab](https://www.tu.berlin/qu), Technische Universität Berlin, Berlin, Germany; funded by VERANDA project.
 
-2024.07 - ongoing: **Guest Researcher** @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
+2024.02 - ongoing: **Guest Researcher** @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
 2023.01 - 2024.01: **Research Assistant** @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
@@ -78,11 +78,12 @@ _EMNLP 2023 Findings_
 
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang/)
 
+
 ## 🐾 <span style="font-family: 'Courier New', monospace;">Academic Service</span>
 ### Conference Reviewer
 
 ### Secondary Reviewer
-`Interpretability and Analysis Models for NLP track`
+#### Interpretability and Analysis Models for NLP track
 - EACL 2024
 - EMNLP 2023
 - ACL 2023 
