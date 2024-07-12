@@ -10,6 +10,8 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 
 # ✨ <span style="font-family: 'Courier New', monospace;">News</span>
+<u><b>2024-07-12</b></u> | One co-authored paper - _Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues_ accepted to ACM GoodIT.
+
 <u><b>2024-06-12</b></u>: One new paper in submission: A question answering (resource) paper on the conversational parsing explanation requests (CoXQL).
 
 <u><b>2024-04-19</b></u>: _LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations_ accepted to NAACL 2024 HCI+NLP workshop🛕!
@@ -36,6 +38,18 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 # 📑 <span style="font-family: 'Courier New', monospace;">Publication</span>
 ## 2024
+<span style="font-size: 25px; font-family: 'Courier New', monospace;">Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
+</span>
+
+Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller
+
+ACM GoodIT 2024 (Work in Progress track)
+
+[OpenReview (previous ARR submission)](https://openreview.net/forum?id=mHgNzfiApQ) | Proceedings available in September
+
+<br>
+
+
 <span style="font-size: 25px; font-family: 'Courier New', monospace;">CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems</span>
 
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, and Sebastian Möller
@@ -47,15 +61,6 @@ _In submission_
 <br>
 
 
-<span style="font-size: 25px; font-family: 'Courier New', monospace;">ReWIRED: Instructional Explanations in Teacher-Student Dialogues</span>
-
-Nils Feldhus, Aliki Anagnostopoulou, João Lucas Mendes de Lemos Lins, **Qianli Wang**, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller
-
-_In submission_
-
-[OpenReview](https://openreview.net/forum?id=mHgNzfiApQ)
-
-<br>
 
 <img src="img/LLMCheckup_Logo.png" style="width:20%; height:15%;" align="right">
 <span style="font-size: 25px; font-family: 'Courier New', monospace;" >LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations</span>
