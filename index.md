@@ -1,5 +1,6 @@
 [![GitHub](https://a11ybadges.com/badge?logo=github)](https://github.com/qiaw99) | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=dKmUzp4AAAAJ) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qianliwang/) | [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-1857B6.svg?style=for-the-badge&logo=Semantic-Scholar&logoColor=white)](https://www.semanticscholar.org/author/Qianli-Wang/2257126685) | [![Gmail](https://a11ybadges.com/badge?logo=gmail)](mailto:wolfgang61617@gmail.com)
-<img src="./img/avatar.jpg" style="width: 20%; height: 20%; border-radius:30%;" align="right"/>
+<img src="./img/avatar.jpg" style="width: 20%; height: 20%; border-radius:80%;" align="right"/>
+
 Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the interpretability and explainability of LLMs. My passion lies in unraveling the complexities of these models to make their inner workings more transparent and their outputs more trustworthy.
 
 
