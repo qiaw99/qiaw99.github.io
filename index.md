@@ -43,9 +43,9 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller
 
-ACM GoodIT 2024 (Work in Progress track)
+ACM GoodIT 2024
 
-[OpenReview (previous ARR submission)](https://openreview.net/forum?id=mHgNzfiApQ) | Proceedings available in September
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665)
 
 <br>
 
