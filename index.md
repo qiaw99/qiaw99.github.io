@@ -10,6 +10,8 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 
 # ✨ <span style="font-family: 'Courier New', monospace;">News</span>
+<u><b>2024-09-12</b></u>: One new paper in submission: an NLG paper for improving explanations via cross-refinement.
+
 <u><b>2024-07-12</b></u>: One co-authored paper - _Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues_ accepted to ACM GoodIT 2024.
 
 <u><b>2024-06-12</b></u>: One new paper in submission: A question answering (resource) paper on the conversational parsing explanation requests (CoXQL).
@@ -38,6 +40,18 @@ Hi👋, I'm Qianli Wang and work as a NLP researcher dedicated to advancing the 
 
 # 📑 <span style="font-family: 'Courier New', monospace;">Publication</span>
 ## 2024
+<span style="font-size: 25px; font-family: 'Courier New', monospace;">Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
+</span>
+
+**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller and Vera Schmitt
+
+_In submission_
+
+[arXiv](https://arxiv.org/abs/2409.07123)
+
+<br>
+
+
 <span style="font-size: 25px; font-family: 'Courier New', monospace;">Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
 </span>
 
