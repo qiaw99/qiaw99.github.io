@@ -10,7 +10,7 @@ Hi👋, I’m Qianli Wang and work as a NLP researcher dedicated to advancing th
 Topics of interest are post-hoc explanations (counterfactual generation, rationale generation), interactive conversational XAI systems, data-centric interpretability, evaluation for generated text.  
 
 # News ✨ 
-<u>2024-09-12:</u> One new paper in submission: an NLG paper for improving explanations via cross-refinement.
+<u>2024-09-12:</u> One new paper in submission: an NLG paper for improving explanations via cross-refinement (Cross-Refine).
 
 <u>2024-07-12:</u> One co-authored paper - _Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues_ accepted to ACM GoodIT 2024.
 
@@ -25,14 +25,14 @@ Topics of interest are post-hoc explanations (counterfactual generation, rationa
 
 
 # Education Background 👨‍🎓
-2024-ongoing: Computer Science, PhD, Technische Universität Berlin. Supervised by Prof. Dr. Sebastian Möller.
+2024-ongoing: Computer Science, Ph.D., Technische Universität Berlin. Supervised by Prof. Dr. Sebastian Möller.
 
 2021-2023: Computer Science, M.Sc., Technische Universität Berlin. Supervised by [Nils Feldhus](https://nfelnlp.github.io/) and [Dr.-Ing. Leonhard Hennig](https://www.dfki.de/web/ueber-uns/mitarbeiter/person/lehe02): _A Singular LLM is all you need for dialogue-based explanation regarding NLP tasks_.
 
 2018-2021: Computer Science, B.Sc., Freie Universität Berlin. Supervised by [Prof. Dr. László Kozma](https://www.mi.fu-berlin.de/inf/groups/ag-ti/members/professoren/Kozma_Laszlo.html): _Understanding and implementation of the algorithm for three-coloring in triangle-free planar graphs_.
 
 # Jobs 🧑‍💻
-2024.07 - ongoing: NLP Researcher @ Quality and Usability Lab, Technische Universität Berlin, Berlin, Germany; funded by VERANDA project.
+2024.07 - ongoing: NLP Researcher @ Quality and Usability Lab, Technische Universität Berlin, Berlin, Germany; funded by [VERANDA](https://njctn.github.io/VERANDA/) project.
 
 2024.02 - ongoing: Guest Researcher @ German Research Center for Artificial Intelligence (DFKI) - [SLT Group](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/), Berlin, Germany.
 
