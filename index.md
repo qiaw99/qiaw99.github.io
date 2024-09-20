@@ -10,7 +10,7 @@ Hi👋, I’m Qianli Wang and work as a NLP researcher dedicated to advancing th
 Topics of interest are post-hoc explanations (counterfactual generation, rationale generation), interactive conversational XAI systems, data-centric interpretability, evaluation for generated text.  
 
 # News ✨ 
-<u> 2024-09-20:</u> _CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems_ accepted to EMNLP 2024 Findings, which will be hold in Miami 🗽! 
+<u> 2024-09-20:</u> _CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems_ accepted to EMNLP 2024 Findings, which will be hold in Miami, USA 🗽! 
 
 <u>2024-09-12:</u> One new paper in submission: an NLG paper for improving explanations via cross-refinement (Cross-Refine).
 

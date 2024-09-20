@@ -12,18 +12,17 @@ title: "Publications"
 *In submission*<br>
 [arXiv](https://arxiv.org/abs/2409.07123)
 
+### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
+**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, and Sebastian Möller <br>
+*EMNLP 2024 Findings*  <br>
+[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
+
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"> 
 
 ### Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues
 Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning Wachsmuth, Daniel Sonntag, and Sebastian Möller  
 *ACM GoodIT 2024 (Work in Progress track)*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3677525.3678665) | [OpenReview (previous version submitted to ARR)](https://openreview.net/forum?id=mHgNzfiApQ)
-
-
-### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
-**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, and Sebastian Möller <br>
-*EMNLP 2024 Findings*  <br>
-[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
 
 
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right"> 
