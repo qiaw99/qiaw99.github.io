@@ -22,7 +22,7 @@ Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning W
 
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, and Sebastian Möller <br>
-*In submission*  <br>
+*EMNLP 2024 Findings*  <br>
 [arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
 
 
