@@ -5,7 +5,16 @@ author_profile: true
 title: "Supervision"
 ---
 
+## Open Position
+### Internship
+I'm always open to accepting internships with highly motivated students. If you are interested please send me your CV and a short motivation letter.
+
+### Student Research Assistant (HiWi):
+One hiwi position with XAI focus: https://www.linkedin.com/feed/update/urn:li:activity:7234074023708553217/ 
+
 ## Open topics
+
+If you are interested in any topics mentioned below, please send me your CV and a short motivation letter.
 
 ### 1. ToolFormer integration in conversational XAI systems
 As LLMs is getting more and more complex, the need for explaining black box model is growing. However, sometimes one-off explanations are not sufficient, e.g., due to ambiguity. Thus, we introduced interactive conversational XAI systems, which can provide multiple explainability methods in a dialogue manner. The code can be reused from below referenced papers (https://github.com/DFKI-NLP/InterroLang), which can also give you an overview how such systems look like. The goal of this thesis is: try to integrate Toolformer into conversation XAI systems. When a specific explainability method is called by the user, the user question should be annotated by some certain patterns, with help of which corresponding tools should be invoked.

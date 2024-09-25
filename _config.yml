@@ -23,11 +23,11 @@ repository               : "qiaw99/qiaw99.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : ""
+  name             : "王谦里 Qianli Wang"
   pronouns         : "he/his"
   bio              : ""
   location         : "Berlin, Germany"
-  employer         : "DFKI & TU Berlin"
+  employer         : "TU Berlin & DFKI"
   uri              : # URL
   email            : "qianli.wang@tu-berlin.de"
 

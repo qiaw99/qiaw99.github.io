@@ -19,5 +19,5 @@ title: "Service"
 - EACL 2023
 
 ## Workshop Reviewer
-**BlackboxNLP** @ EMNLP 2023 (secondary)  
+- **BlackboxNLP** @ EMNLP 2023 (secondary)  
 
