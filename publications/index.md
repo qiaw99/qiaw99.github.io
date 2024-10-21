@@ -7,6 +7,11 @@ title: "Publications"
 
 
 ## 2024
+### Anchored Alignment for Self-Explanations Enhancement
+Luis Felipe Villa-Arenas, Ata Nizamoglu, **Qianli Wang**, Sebastian Möller, and Vera Schmitt<br>
+*In submission*<br>
+[arXiv](https://arxiv.org/abs/2410.13216) | [GitHub](https://github.com/felipevillaarenas/anchored-alignment)
+
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller, and Vera Schmitt<br>
 *In submission*<br>
