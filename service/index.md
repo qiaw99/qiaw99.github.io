@@ -11,6 +11,7 @@ title: "Service"
 
 ## Conference Reviewer
 - ICLR 2025
+- COLING 2025 (Emergency Reviewer)
 
 ## Secondary Reviewer
 - EACL 2024
