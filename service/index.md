@@ -10,8 +10,10 @@ title: "Service"
 
 
 ## Conference Reviewer
-- ICLR 2025
+- NAACL 2025 (ARR October)
 - COLING 2025 (Emergency Reviewer)
+- ICLR 2025
+
 
 ## Secondary Reviewer
 - EACL 2024

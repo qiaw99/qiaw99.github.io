@@ -20,7 +20,7 @@ Luis Felipe Villa-Arenas, Ata Nizamoglu, **Qianli Wang**, Sebastian Möller, and
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, and Sebastian Möller <br>
 *EMNLP 2024 Findings*  <br>
-[arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
+[ACL Anthology](https://aclanthology.org/2024.findings-emnlp.76/) | [arXiv](https://arxiv.org/abs/2406.08101) | [GitHub](https://github.com/DFKI-NLP/CoXQL)  
 
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"> 
 
