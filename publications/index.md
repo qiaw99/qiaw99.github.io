@@ -7,15 +7,15 @@ title: "Publications"
 
 
 ## 2024
+### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
+**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller, and Vera Schmitt<br>
+*COLING 2025*<br>
+[arXiv](https://arxiv.org/abs/2409.07123) | [GitHub](https://github.com/qiaw99/Cross-Refine)
+
 ### Anchored Alignment for Self-Explanations Enhancement
 Luis Felipe Villa-Arenas, Ata Nizamoglu, **Qianli Wang**, Sebastian Möller, and Vera Schmitt<br>
 *In submission*<br>
 [arXiv](https://arxiv.org/abs/2410.13216) | [GitHub](https://github.com/felipevillaarenas/anchored-alignment)
-
-### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
-**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller, and Vera Schmitt<br>
-*In submission*<br>
-[arXiv](https://arxiv.org/abs/2409.07123)
 
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, and Sebastian Möller <br>
@@ -32,7 +32,7 @@ Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning W
 
 <img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right"> 
 
-### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools
+### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
 [ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)  

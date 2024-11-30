@@ -10,11 +10,13 @@ Hi👋, I’m Qianli Wang and work as a NLP researcher dedicated to advancing th
 Topics of interest are post-hoc explanations (counterfactual generation, rationale generation), interactive conversational XAI systems, data-centric interpretability, evaluation for generated text.  
 
 # News ✨ 
-<u> 2024-11-08:</u> I will be in Miami at <a href="https://2024.emnlp.org/">EMNLP 2024</a> to present our <a href="https://aclanthology.org/2024.findings-emnlp.76/">CoXQL</a> paper. See you in Miami 🗽!
+<u> 2024-11-29:</u> The <b>second</b> first-authored paper <i>Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem</i> accepted at **COLING 2025**, which will be hold in Abu Dhabi, United Arab Emirates🏜️!
+
+<u> 2024-11-08:</u> I will be in Miami at <a href="https://2024.emnlp.org/">EMNLP 2024</a> to present our <a href="https://aclanthology.org/2024.findings-emnlp.76/">CoXQL</a> paper. See you in Miami!
 
 <u> 2024-10-15:</u> One co-authored paper about LLM self-explanation alignment is in submission!
 
-<u> 2024-09-20:</u> _CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems_ accepted to EMNLP 2024 Findings, which will be hold in Miami, USA 🗽! 
+<u> 2024-09-20:</u> _CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems_ accepted at **EMNLP 2024 Findings**, which will be hold in Miami, USA 🗽! 
 
 <u>2024-09-12:</u> One new paper in submission: an NLG paper for improving explanations via cross-refinement (Cross-Refine).
 
