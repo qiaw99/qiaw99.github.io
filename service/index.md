@@ -10,7 +10,8 @@ title: "Service"
 
 
 ## Conference Reviewer
-- ARR October 2024 (NAACL 2025)
+- ACL Rolling Review (Oct. 2024-)
+- NAACL 2025
 - COLING 2025 (Emergency Reviewer)
 - ICLR 2025
 
