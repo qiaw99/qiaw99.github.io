@@ -10,6 +10,7 @@ Hi👋, I’m Qianli Wang and work as a NLP researcher dedicated to advancing th
 Topics of interest are post-hoc explanations (counterfactual generation, rationale generation), interactive conversational XAI systems, data-centric interpretability, evaluation for generated text.  
 
 # News ✨
+<u> 2025-01-15:</u> 🎉 Exciting News from <a href="https://mission-ki.de/en/ai-founder-fellowship">AI Founder Fellowship Program</a>: Kick-off will be at <a href="https://technikmuseum.berlin/">Deutsche Technikmuseum</a> in Berlin (2025-01-28)! I'm glad to announce that I have received funding granted by <i>German Academy of Technical Sciences (acatech)</i> and <i>Federal Ministry for Digital and Transport (BMDV)</i>, supporting PhD students with up to 32 Mio. Euro over 9 months for their doctoral research projects/start-up ideas. **🚨 One student researcher (Hiwi) position will be opened soon! Stay tuned🙌!**<br><br>
 <u> 2025-01-03:</u> 🌴 FitCF paper is now publicly available on arXiv! <br><br>
 <u> 2024-12-15:</u> I will be at <a href="https://coling2025.org/">COLING 2025</a> to present our <a href="https://arxiv.org/abs/2409.07123">Cross-Refine</a> paper. See you in Abu Dhabi!<br><br>
 <u> 2024-12-11:</u> One new paper in submission about feature importance-guided counterfactual example generation (FitCF). The preprint is scheduled for release in January 2025. Stay tuned!<br><br>
