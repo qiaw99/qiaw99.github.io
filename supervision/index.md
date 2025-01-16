@@ -5,12 +5,13 @@ author_profile: true
 title: "Supervision"
 ---
 
-## Open Position
-### Internship
-I'm always open to accepting internships with highly motivated students. If you are interested please send me your CV and a short motivation letter.
+## Thesis Supervision
 
-### Student Research Assistant (HiWi):
-[One hiwi position with XAI focus](https://www.linkedin.com/feed/update/urn:li:activity:7234074023708553217/) 
+### Ongoing
+- Jiaao Li (Master Thesis)
+  - Code Verification of Thought: Natural Language Explanation Generation through Code Completion
+
+### Completed
 
 ## Open Topics
 If you are interested in any topics mentioned below, please send me your CV, transcript of record, and a short motivation letter.
@@ -24,6 +25,3 @@ References: <a href="https://aclanthology.org/2023.findings-emnlp.359/">Feldhus 
 One of popular explainability method is called counterfactual, which refers to the edited input whose prediction after edition is different than that before edition. However, alterfactual is kind of the opposition, which refers to altered version and the prediction does not change. Since alterfactual generation is less explored by the NLP communities, the goal of the thesis is to create a new approach to generate alterfactual.
 
 References: <a href="https://arxiv.org/pdf/2405.05295">Mertes et al. (2024)</a>;  <a href="https://www.arxiv.org/pdf/2408.10528">Nguyen et al. (2024)</a>
-
-### 3. Code Verification of Thought: Natural Language Explanation Generation through Code Completion
-https://www.theses.tu-berlin.de/de/theses/0193daba-3c50-7d72-afcf-29985ba843e0
