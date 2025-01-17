@@ -20,5 +20,6 @@ title: "Projects"
 
 - Funded by _Deutsche Akademie der Technikwissenschaften, Bundesministerium für Digitales und Verkehr (BMDV)_ <u>(in total 32 Mio. Euro)</u> <br>
 - Project: [AI Founder Fellowship](https://mission-ki.de/en/ai-founder-fellowship)
-- Kick-off: 2025/01/28 - **Deutsche Technikmuseum**
 - Topic: **Conversational Verification of Generative Content (CO-VER-GEN)** <br><br>
+
+[//]: # (- Kick-off: 2025/01/28 - **Deutsche Technikmuseum**)
