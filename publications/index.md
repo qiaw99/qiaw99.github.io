@@ -17,7 +17,7 @@ _In submission_<br>
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller, and Vera Schmitt<br>
 *COLING 2025*<br>
-ACL Anthology available in January | [arXiv](https://arxiv.org/abs/2409.07123) | [GitHub](https://github.com/qiaw99/Cross-Refine)
+[ACL Anthology](https://aclanthology.org/2025.coling-main.77/) | [arXiv](https://arxiv.org/abs/2409.07123) | [GitHub](https://github.com/qiaw99/Cross-Refine)
 
 ## 2024
 ### Anchored Alignment for Self-Explanations Enhancement
