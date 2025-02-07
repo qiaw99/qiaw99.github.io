@@ -8,9 +8,10 @@ title: "Projects"
 ## Grants
 
 
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/mission_ki.jpg?raw=true" width="125px" align="right">
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/mission_ki.jpg?raw=true" width="200px" align="right">
 
-### 🚀 Mission KI (15.000 €) - 2️⃣0️⃣2️⃣5️⃣.0️⃣1️⃣.1️⃣5️⃣
+### 🚀 Mission KI (100k €) - 2️⃣0️⃣2️⃣5️⃣.0️⃣1️⃣.1️⃣5️⃣
+Together with _Premtim Sahitaj_ and _Daniel Röder_.
 #### Details: 
 <details> 
   <summary>

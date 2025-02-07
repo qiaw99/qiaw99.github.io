@@ -32,3 +32,8 @@ References: <a href="https://arxiv.org/pdf/2405.05295">Mertes et al. (2024)</a>;
 
 ### 2. Refining and Aligning Natural Language Explanations through Human-Guided Feedback
 References: [Li et al. (2022)](https://aclanthology.org/2022.findings-acl.75/); [Hong et al. (2024)](https://aclanthology.org/2024.emnlp-main.626/); [Chen et al. (2024)](https://arxiv.org/abs/2412.08393)
+
+### 3. How different quantization approaches affect feature importance
+Quantization approaches can be divided into two categories: quantization-aware training and post-training quantization. In this thesis, we want to explore how different approaches affect feature importance, e.g. faithfulness.
+
+Reference: [Gholami et al. (2022)](https://arxiv.org/abs/2103.13630); [Wan et al. (2024)](https://openreview.net/forum?id=bsCCJHbO8A); [Zhu et al. (2024)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00704/125482/A-Survey-on-Model-Compression-for-Large-Language);
