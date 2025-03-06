@@ -14,7 +14,9 @@ title: "Supervision"
 ## Student Research Assistant Supervision
 ### Ongoing
 - [Yoana Tsoneva](https://github.com/ytsoneva24) (2025/01/16-): intent recognition in conversational XAI systems
-- [Fedor Splitt](https://github.com/fledor) (2025/02/01): cross-lingual and multilingual intent recognition in conversational XAI systems
+- [Fedor Splitt](https://github.com/fledor) (2025/02/01-): cross-lingual and multilingual intent recognition in conversational XAI systems
+
+[//]: # (### Completed)
 
 ## Open Topics
 If you are interested in any topics mentioned below, please send me your CV, transcript of record, and a short motivation letter.

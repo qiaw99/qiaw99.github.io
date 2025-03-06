@@ -10,11 +10,16 @@ title: "Service"
 
 
 ## Conference Reviewer
+**(Interpretability, Model Editing, Transparency, and Explainability)**
+- ARR May 2025 (EMNLP 2025)
+
 **(Interpretability and Analysis of Models for NLP)**
 - ARR February 2025 (ACL 2025)
 - ARR December 2024
 - ARR October 2024 (NAACL 2025)
 - COLING 2025 (Emergency Reviewer)
+
+**(Other Conferences/Tracks)**
 - ICLR 2025
 
 
