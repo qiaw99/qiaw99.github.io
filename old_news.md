@@ -4,6 +4,9 @@ classes: wide
 author_profile: true
 ---
 ## 2024
+<u> 2024-11-08:</u> I will be in Miami at <a href="https://2024.emnlp.org/">EMNLP 2024</a> to present our <a href="https://aclanthology.org/2024.findings-emnlp.76/">CoXQL</a> paper. See you in Miami!<br><br>
+<u> 2024-10-15:</u> One co-authored paper about LLM self-explanation alignment is in submission!<br><br>
+<u> 2024-09-20:</u> The <b>2nd</b> first-authored paper _CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems_ accepted at **EMNLP 2024 Findings**, which will be hold in Miami, USA 🗽!<br><br>
 <u>2024-09-12:</u> One new paper in submission: an NLG paper for improving explanations via cross-refinement (Cross-Refine).<br><br>
 <u>2024-07-12:</u> One co-authored paper - _Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues_ accepted to **ACM GoodIT 2024**.<br><br>
 <u>2024-06-12:</u> One new paper in submission: A question answering (resource) paper on the conversational parsing explanation requests (CoXQL).<br><br>

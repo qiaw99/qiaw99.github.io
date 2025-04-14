@@ -3,20 +3,20 @@ main:
   - title: About
     url: /
 
-  - title: "📚 Publications"
+  - title: "📑 Publications"
     url: /publications/
-
-#  - title: "🎤 Talks"
-#    url: /talks/
     
-  - title: "👨‍🏫 Supervision"
+  - title: "🐾 Supervision"
     url: /supervision/
 
-  - title: "⭐ Service"
+  - title: "👜 Service"
     url: /service/
 
-  - title: "📑 Teaching"
+  - title: "🎓 Teaching"
     url: /teaching/
 
   - title: "🤖 Projects"
     url: /projects/
+
+  - title: "🎯 Talks"
+    url: /talks/

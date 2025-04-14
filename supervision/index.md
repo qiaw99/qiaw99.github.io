@@ -7,16 +7,17 @@ title: "Supervision"
 
 ## Thesis Supervision
 ### Ongoing
-- [Jiaao Li](https://github.com/grayJiaaoLi) (with [Nils Feldhus](https://nfelnlp.github.io/)) - Master Thesis - Title: _Code Verification of Thought: Natural Language Explanation Generation through Code Completion_
+- [Jiaao Li](https://github.com/grayJiaaoLi) (with [Nils Feldhus](https://nfelnlp.github.io/)) - **Master Thesis** - Title: _Code Verification of Thought: Natural Language Explanation Generation through Code Completion_
+- Alexandra Iakovleva (with [Jing Yang](https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/dr-jing-yang)) - **Bachelor Thesis** - Title: _XAI in Data Privacy and Data Anonymization: A Survey_
 
 [//]: # (### Completed)
 
 ## Student Research Assistant Supervision
 ### Ongoing
-- [Yoana Tsoneva](https://github.com/ytsoneva24) (2025/01/16-): intent recognition in conversational XAI systems
 - [Fedor Splitt](https://github.com/fledor) (2025/02/01-): cross-lingual and multilingual intent recognition in conversational XAI systems
 
-[//]: # (### Completed)
+### Completed
+- [Yoana Tsoneva](https://github.com/ytsoneva24) (2025/01/16-2025/03/15): intent recognition in conversational XAI systems
 
 ## Open Topics
 If you are interested in any topics mentioned below, please send me your CV, transcript of record, and a short motivation letter.
