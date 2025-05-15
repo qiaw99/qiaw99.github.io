@@ -4,14 +4,13 @@ classes: wide
 author_profile: true
 title: "Publications"
 ---
-
+A full list of my publications is available on my [Google Scholar](https://scholar.google.com/citations?user=dKmUzp4AAAAJ&hl=zh-CN) profile.
 
 ## 2025
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
 
 ### FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation
 **Qianli Wang**, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, Vera Schmitt <br>
-_In submission_<br>
+_ACL 2025 Findings_<br>
 [arXiv](https://arxiv.org/abs/2501.00777) | _(Code will be publicly available once the paper is published)_
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
@@ -20,7 +19,7 @@ _In submission_<br>
 [ACL Anthology](https://aclanthology.org/2025.coling-main.77/) | [arXiv](https://arxiv.org/abs/2409.07123) | [GitHub](https://github.com/qiaw99/Cross-Refine)
 
 ## 2024
-### Anchored Alignment for Self-Explanations Enhancement
+### AnchorAlign: Self-Explanations Enhancement via Anchored Alignment
 Luis Felipe Villa-Arenas, Ata Nizamoglu, **Qianli Wang**, Sebastian Möller, and Vera Schmitt<br>
 *In submission*<br>
 [arXiv](https://arxiv.org/abs/2410.13216) | [GitHub](https://github.com/felipevillaarenas/anchored-alignment)
@@ -41,7 +40,7 @@ Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning W
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right"> 
 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations
-**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
+**Qianli Wang**, Tatiana Anikina<sup>*</sup>, Nils Feldhus<sup>*</sup>, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
 [ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)  
 

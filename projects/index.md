@@ -7,10 +7,16 @@ title: "Projects"
 
 ## Grants
 
+### 👑 Young Researcher Visit Grant (15,000 DKK) 
+
+- 1-month research stay (Sept. 2025) at CopeNLP group and supervised by Isabelle Augenstein.
+
+- Funded by Danish Data Science Academy (DDSA)
+
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/mission_ki.jpg?raw=true" width="200px" align="right">
 
-### 🚀 Mission KI (100k €) - 2️⃣0️⃣2️⃣5️⃣.0️⃣1️⃣.1️⃣5️⃣
+### 🚀 Mission KI (100,000 Euro)
 Together with _Premtim Sahitaj_ and _Daniel Röder_.
 #### Details: 
 <details> 
