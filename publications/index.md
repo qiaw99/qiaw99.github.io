@@ -8,6 +8,8 @@ A full list of my publications is available on my [Google Scholar](https://schol
 
 ## 2025
 
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
+
 ### FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation
 **Qianli Wang**, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, Vera Schmitt <br>
 _ACL 2025 Findings_<br>
