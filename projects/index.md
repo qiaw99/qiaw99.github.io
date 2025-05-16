@@ -9,7 +9,7 @@ title: "Projects"
 
 ### 👑 Young Researcher Visit Grant (15,000 DKK) 
 
-- 1-month research stay (Sept. 2025) at CopeNLP group and supervised by Isabelle Augenstein.
+- 1-month research stay (Sept. 2025) at CopeNLU group and supervised by Isabelle Augenstein.
 
 - Funded by Danish Data Science Academy (DDSA)
 
