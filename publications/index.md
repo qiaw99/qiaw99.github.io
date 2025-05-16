@@ -13,7 +13,7 @@ A full list of my publications is available on my [Google Scholar](https://schol
 ### FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation
 **Qianli Wang**, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, Vera Schmitt <br>
 _ACL 2025 Findings_<br>
-[arXiv](https://arxiv.org/abs/2501.00777) | _(Code will be publicly available once the paper is published)_
+ACL Anthology will be available in July | [arXiv](https://arxiv.org/abs/2501.00777) | [GitHub](https://github.com/qiaw99/FitCF)
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller, and Vera Schmitt<br>
@@ -42,7 +42,7 @@ Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning W
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/LLMCheckup_Logo.png?raw=true" width="125px" align="right"> 
 
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations
-**Qianli Wang**, Tatiana Anikina<sup>*</sup>, Nils Feldhus<sup>*</sup>, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
+**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
 [ACL Anthology](https://aclanthology.org/2024.hcinlp-1.9) | [arXiv](https://arxiv.org/abs/2401.12576) | [GitHub](https://github.com/DFKI-NLP/LLMCheckup)  
 
