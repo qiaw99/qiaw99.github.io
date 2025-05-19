@@ -8,6 +8,25 @@ A full list of my publications is available on my [Google Scholar](https://schol
 
 ## 2025
 
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">
+
+### 🔍Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability
+**Qianli Wang**, Mingyang Wang, Nils Feldhus, Simon Ostermann, Yuan Cao, Hinrich Schütze, Sebastian Möller, Vera Schmitt <br>
+_In submission_<br>
+_(Code will be publicly available once the paper is published)_
+
+### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
+**Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt <br>
+_In submission_<br>
+_(Code will be publicly available once the paper is published)_
+
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="60px" align="right">
+
+### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
+**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt <br>
+_In submission_<br>
+_(Code will be publicly available once the paper is published)_
+
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
 
 ### FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation

@@ -10,6 +10,7 @@ Hi👋, I’m Qianli Wang and work as a NLP researcher dedicated to advancing th
 Topics of interest are _post-hoc explanations_ (especially counterfactual example, free-text rationale), _interactive conversational XAI systems_, _mechanistic interpretability_, _reasoning_, _multilinguality_, _evaluation_, _alignment_.  
 
 # News ✨
+<u> 2025-05-19:</u> 💫 Three first-authored papers in submission about <b>(1)</b> <i>multilingual explanation request parsing and custom input extraction in ConvXAI</i>; <b>(2)</b> <i>counterfactual validity evaluation for counterfactual data augmentation</i>; <b>(3)</b> <i>how does quantization affect model explainability and interpretability</i>.<br><br>
 <u> 2025-05-15:</u> The <b>4th</b> first-authored paper titled <i>FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation</i> accepted at <i>ACL 2025 Findings</i>, which will be hold in Vienna, Austria! 🍻<br><br>
 <u> 2025-05:15</u> 🚥 Thrilled to announce that I will be conducting a research stay in <i>September</i> at the <a href="https://www.copenlu.com/">CopeNLU</a> group, led by <a href="https://isabelleaugenstein.github.io/">Isabelle Augenstein</a>, funded by the <a href="https://ddsa.dk/">Danish Data Science Academy</a> (DDSA).<br><br>
 <u> 2025-04-29:</u> I gave an invited presentation at Efficient and Explainable NLP (E&E) Group, MLT Lab, DFKI about <i>FitCF paper</i>. <br><br>
