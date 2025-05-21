@@ -13,12 +13,12 @@ A full list of my publications is available on my [Google Scholar](https://schol
 ### 🔍Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability
 **Qianli Wang**, Mingyang Wang, Nils Feldhus, Simon Ostermann, Yuan Cao, Hinrich Schütze, Sebastian Möller, Vera Schmitt <br>
 _In submission_<br>
-_(Code will be publicly available once the paper is published)_
+[arXiv](https://arxiv.org/abs/2505.13963) | _(Code will be publicly available once the paper is published)_
 
 ### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 **Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt <br>
 _In submission_<br>
-_(Code will be publicly available once the paper is published)_
+[arXiv](https://arxiv.org/abs/2505.13972) | _(Code will be publicly available once the paper is published)_
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="60px" align="right">
 
