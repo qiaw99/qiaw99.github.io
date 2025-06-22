@@ -8,7 +8,7 @@ A full list of my publications is available on my [Google Scholar](https://schol
 
 <input type="text" id="searchBox" placeholder="Search by year or title..." onkeyup="searchPublications()" style="width:100%;padding:10px;margin-bottom:20px;font-size:16px;">
 
-<div id="publicationContent">
+<div id="publicationContent" markdown="1">
 
 ## 2025
 
@@ -81,18 +81,11 @@ Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and S
 
 </div>
 
-<script>
 function searchPublications() {
-  const input = document.getElementById("searchBox").value.toLowerCase();
-  const pubs = document.querySelectorAll("#publicationContent > *");
-
-  pubs.forEach(pub => {
-    const text = pub.textContent.toLowerCase();
-    if (text.includes(input)) {
-      pub.style.display = "";
-    } else {
-      pub.style.display = "none";
-    }
+  const term = document.getElementById("searchBox").value.toLowerCase();
+  const items = document.querySelectorAll("#publicationContent .publication-item");
+  items.forEach(item => {
+    const text = item.textContent.toLowerCase();
+    item.style.display = text.includes(term) ? "" : "none";
   });
 }
-</script>
