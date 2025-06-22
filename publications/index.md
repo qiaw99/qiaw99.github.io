@@ -6,6 +6,10 @@ title: "Publications"
 ---
 A full list of my publications is available on my [Google Scholar](https://scholar.google.com/citations?user=dKmUzp4AAAAJ&hl=zh-CN) profile.
 
+<input type="text" id="searchBox" placeholder="Search by year or title..." onkeyup="searchPublications()" style="width:100%;padding:10px;margin-bottom:20px;font-size:16px;">
+
+<div id="publicationContent">
+
 ## 2025
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">
@@ -75,3 +79,20 @@ Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and S
 *EMNLP 2023 Findings* & *[BlackboxNLP](https://blackboxnlp.github.io/) Workshop*  
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
+</div>
+
+<script>
+function searchPublications() {
+  const input = document.getElementById("searchBox").value.toLowerCase();
+  const pubs = document.querySelectorAll("#publicationContent > *");
+
+  pubs.forEach(pub => {
+    const text = pub.textContent.toLowerCase();
+    if (text.includes(input)) {
+      pub.style.display = "";
+    } else {
+      pub.style.display = "none";
+    }
+  });
+}
+</script>

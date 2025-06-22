@@ -7,11 +7,11 @@ title: "Supervision"
 
 ## Thesis Supervision
 ### Ongoing
-- [Jiaao Li](https://github.com/grayJiaaoLi) (with [Nils Feldhus](https://nfelnlp.github.io/)) - **Master Thesis** - Title: _Code Verification of Thought: Natural Language Explanation Generation through Code Completion_
+- [Jiaao Li](https://github.com/grayJiaaoLi) (with [Nils Feldhus](https://nfelnlp.github.io/)) - **Master Thesis** - Title: _EffiCoC: Efficient Chain-of-Code with CodeLLMs_
 
 - Alexandra Iakovleva (with [Jing Yang](https://www.tu.berlin/en/qu/ueber-uns/team-personen/senior-researchers/dr-jing-yang)) - **Bachelor Thesis** - Title: _XAI in Data Privacy and Data Anonymization: A Survey_
 
-- Yilong Wang (with [Nils Feldhus](https://nfelnlp.github.io/)) - **Bachelor Thesis** - Title: Contrastive Learning for Counterfactual Example Generation
+- Yilong Wang (with [Nils Feldhus](https://nfelnlp.github.io/)) - **Bachelor Thesis** - Title: _AIGC: Automatic Iterative Generation for Counterfactuals_
 
 [//]: # (### Completed)
 
