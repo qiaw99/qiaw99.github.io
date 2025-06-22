@@ -8,6 +8,17 @@ A full list of my publications is available on my [Google Scholar](https://schol
 
 <input type="text" id="searchBox" placeholder="Search by year or title..." onkeyup="searchPublications()" style="width:100%;padding:10px;margin-bottom:20px;font-size:16px;">
 
+<script>
+function searchPublications() {
+  const term = document.getElementById("searchBox").value.toLowerCase();
+  const items = document.querySelectorAll("#publicationContent .publication-item");
+  items.forEach(item => {
+    const text = item.textContent.toLowerCase();
+    item.style.display = text.includes(term) ? "" : "none";
+  });
+}
+</script>
+
 <div id="publicationContent" markdown="1">
 
 ## 2025
@@ -80,14 +91,3 @@ Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and S
 [ACL Anthology](https://aclanthology.org/2023.findings-emnlp.359/) | [arXiv](https://arxiv.org/abs/2310.05592) | [GitHub](https://github.com/DFKI-NLP/InterroLang)  
 
 </div>
-
-{% raw %}
-function searchPublications() {
-  const term = document.getElementById("searchBox").value.toLowerCase();
-  const items = document.querySelectorAll("#publicationContent .publication-item");
-  items.forEach(item => {
-    const text = item.textContent.toLowerCase();
-    item.style.display = text.includes(term) ? "" : "none";
-  });
-}
-{% endraw %}
