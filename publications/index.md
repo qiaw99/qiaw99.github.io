@@ -81,6 +81,7 @@ Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and S
 
 </div>
 
+{% raw %}
 function searchPublications() {
   const term = document.getElementById("searchBox").value.toLowerCase();
   const items = document.querySelectorAll("#publicationContent .publication-item");
@@ -89,3 +90,4 @@ function searchPublications() {
     item.style.display = text.includes(term) ? "" : "none";
   });
 }
+{% endraw %}
