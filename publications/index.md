@@ -28,12 +28,17 @@ _In submission_<br>
 _In submission_<br>
 _(Code will be publicly available once the paper is published)_
 
+### Beyond Transparency: Evaluating Explainability in AI-Supported Fact-Checking
+Vera Schmitt, Isabel Bezzaoui, Charlott Jakob, Premtim Sahitaj, **Qianli Wang**, Arthur Hilbert, Max Upravitelev, Jonas Fegert, Sebastian Möller, Veronika Solopova <br>
+_ICMR 2025 Workshop on Multimedia AI against Disinformation_ <br>
+[ACM Proceeding](https://dl.acm.org/doi/full/10.1145/3733567.3735566)
+
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/fitcf_logo.png?raw=true" width="125px" align="right">
 
 ### FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation
 **Qianli Wang**, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, Vera Schmitt <br>
 _ACL 2025 Findings_<br>
-ACL Anthology will be available in July | [arXiv](https://arxiv.org/abs/2501.00777) | [GitHub](https://github.com/qiaw99/FitCF)
+[ACL Anthology](https://aclanthology.org/2025.findings-acl.64/) | [arXiv](https://arxiv.org/abs/2501.00777) | [GitHub](https://github.com/qiaw99/FitCF)
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller, and Vera Schmitt<br>

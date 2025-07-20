@@ -13,11 +13,13 @@ title: "Supervision"
 
 - Yilong Wang (with [Nils Feldhus](https://nfelnlp.github.io/)) - **Bachelor Thesis** - Title: _AIGC: Automatic Iterative Generation for Counterfactuals_
 
+- [Fedor Splitt](https://github.com/fledor) - **Bachelor Thesis** - Title: _Counterfactual Explanation Enhancement via Self-Alignment_
+
 [//]: # (### Completed)
 
 ## Student Research Assistant Supervision
 ### Ongoing
-- [Fedor Splitt](https://github.com/fledor) (2025/02/01-): cross-lingual and multilingual intent recognition in conversational XAI systems
+- [Fedor Splitt](https://github.com/fledor) (2025/02/01-): intent recognition in ConvXAI and counterfactual data augmentation
 
 ### Completed
 - [Yoana Tsoneva](https://github.com/ytsoneva24) (2025/01/16-2025/03/15): intent recognition in conversational XAI systems
