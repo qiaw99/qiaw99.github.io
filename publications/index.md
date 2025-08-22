@@ -8,6 +8,17 @@ A full list of my publications is available on my [Google Scholar](https://schol
 
 
 ## 2025
+<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="60px" align="right">
+
+### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
+**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt <br>
+_EMNLP 2025 Findings_<br>
+[arXiv](http://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass)
+
+### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
+**Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt <br>
+_INLG 2025_<br>
+[arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/failure)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">
 
@@ -16,17 +27,6 @@ A full list of my publications is available on my [Google Scholar](https://schol
 _In submission_<br>
 [arXiv](https://arxiv.org/abs/2505.13963) | _(Code will be publicly available once the paper is published)_
 
-### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
-**Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt <br>
-_In submission_<br>
-[arXiv](https://arxiv.org/abs/2505.13972) | _(Code will be publicly available once the paper is published)_
-
-<img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="60px" align="right">
-
-### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
-**Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt <br>
-_In submission_<br>
-_(Code will be publicly available once the paper is published)_
 
 ### Beyond Transparency: Evaluating Explainability in AI-Supported Fact-Checking
 Vera Schmitt, Isabel Bezzaoui, Charlott Jakob, Premtim Sahitaj, **Qianli Wang**, Arthur Hilbert, Max Upravitelev, Jonas Fegert, Sebastian Möller, Veronika Solopova <br>

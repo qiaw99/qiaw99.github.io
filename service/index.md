@@ -11,6 +11,7 @@ title: "Service"
 
 ## Conference Reviewer
 ### 2025
+- ARR July 2025 (IJCNLP-AACL 2025)
 - ARR May 2025 (EMNLP 2025)
 - ARR February 2025 (ACL 2025)
 
