@@ -13,11 +13,11 @@ A full list of my publications is available on my [Google Scholar](https://schol
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt <br>
 _EMNLP 2025 Findings_<br>
-[arXiv](http://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass)
+[ACL Anthology](https://aclanthology.org/2025.findings-emnlp.81/) | [arXiv](http://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass)
 
 ### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
-**Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt <br>
-_INLG 2025_<br>
+**Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt<br>
+<span><i>INLG 2025</i> <span style="color:red">(Oral Presentation)</span></span><br>
 [arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/failure)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">

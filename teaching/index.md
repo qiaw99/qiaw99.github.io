@@ -5,6 +5,11 @@ author_profile: true
 title: "Teaching"
 ---
 
+## Winter Semester 2025/26
+### 📌 Advanced Study Projects Quality & Usability<br>
+- **Topic**:  Explaining and Evaluating Bilingual Natural Language Inference Questions
+- **Content**: Extend an existing dataset to German and enrich it with additional explanation scoring - [Link](https://www.tu.berlin/index.php?id=18763)
+
 ## Summer Semester 2025
 ### 🔩 Usability Engineering<br>
 - **Topic**: _Explanation Quality Assessment_ co-lead with _[Jing Yang](https://jingyng.github.io/)_
