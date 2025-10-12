@@ -10,7 +10,7 @@ Hi👋, I’m Qianli Wang and work as a NLP researcher dedicated to advancing th
 Topics of interest are _post-hoc explanations_ (especially counterfactual example, free-text rationale), _interactive conversational XAI systems_, _mechanistic interpretability_, _explanation faithfulness_, _multilinguality_, _evaluation_.  
 
 # News ✨
-<u> 2025-09-27:</u> 📝 One paper about multilingual counterfactual evaluation in collaboration with LMU and Uni Marburg in submission.<br><br>
+<u> 2025-09-27:</u> 📝 One paper about multilingual counterfactual evaluation 🇺🇳 in collaboration with LMU and Uni Marburg in submission.<br><br>
 <u> 2025-09-01:</u> 🌱 Start my research stay in the <a href="https://www.copenlu.com/">CopeNLU</a> group led by <a href="https://isabelleaugenstein.github.io/">Prof. Dr. Isabelle Augenstein</a> in Denmark🧜. Thanks for hosting me and providing a nice starting point for our collaborations! <br><br>
 <u> 2025-08-21:</u> 💥Delighted to share that (1) <i>Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems</i> accepted at <i>EMNLP 2025 Findings</i>; (2) <i>Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals</i> accepted at <i>INLG 2025</i>. See you in Hanoi, Vietnam 🇻🇳 and Suzhou, China 🇨🇳! ✈️ <br><br>
 <u> 2025-05-19:</u> 💫 Three first-authored papers in submission about <b>(1)</b> <i>multilingual explanation request parsing and custom input extraction in ConvXAI</i>; <b>(2)</b> <i>counterfactual validity evaluation for counterfactual data augmentation</i>; <b>(3)</b> <i>how does quantization affect model explainability and interpretability</i>.<br><br>

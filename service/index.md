@@ -8,7 +8,6 @@ title: "Service"
 [OpenReview profile](https://openreview.net/profile?id=~Qianli_Wang1)  
 
 
-
 ## Conference Reviewer
 ### 2025
 - ARR October 2025 (EACL 2026)
@@ -21,11 +20,3 @@ title: "Service"
 - ARR October 2024 (NAACL 2025)
 - COLING 2025 (Emergency Reviewer)
 - ICLR 2025
-
-## Secondary Reviewer
-### 2024
-- EACL 2024
-
-### 2023
-- EMNLP 2023
-- ACL 2023
