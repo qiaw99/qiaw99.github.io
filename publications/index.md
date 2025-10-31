@@ -6,7 +6,6 @@ title: "Publications"
 ---
 
 ## 2025
-
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="60px" align="right">
 
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
@@ -17,7 +16,7 @@ _EMNLP 2025 Findings_<br>
 ### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 **Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt<br>
 <span><i>INLG 2025</i> <span style="color:red">(Oral Presentation)</span></span><br>
-[ACL Anthology](https://aclanthology.org/2025.inlg.6/) | [arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/failure)
+[ACL Anthology](https://aclanthology.org/2025.inlg.5/) | [arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/failure)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">
 
