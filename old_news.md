@@ -3,6 +3,9 @@ layout: single
 classes: wide
 author_profile: true
 ---
+## 2025
+<u> 2025-01-15:</u> 🎉 Exciting News from <a href="https://mission-ki.de/en/ai-founder-fellowship">AI Founder Fellowship Program</a>: I'm glad to announce that I have received funding granted by <i>German Academy of Technical Sciences (acatech)</i> and <i>Federal Ministry for Digital and Transport (BMDV)</i>, supporting PhD students with up to 32 Mio. Euro over 9 months for their doctoral research projects/start-up ideas.<br><br>
+
 ## 2024
 <u> 2024-12-15:</u> I will be at <a href="https://coling2025.org/">COLING 2025</a> to present our <a href="https://arxiv.org/abs/2409.07123">Cross-Refine</a> paper. See you in Abu Dhabi!<br><br>
 <u> 2024-12-11:</u> 🌴 One new paper in submission about feature importance-guided counterfactual example generation (FitCF). The preprint is now available on arXiv!<br><br>

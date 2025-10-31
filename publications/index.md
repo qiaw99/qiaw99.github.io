@@ -4,10 +4,9 @@ classes: wide
 author_profile: true
 title: "Publications"
 ---
-A full list of my publications is available on my [Google Scholar](https://scholar.google.com/citations?user=dKmUzp4AAAAJ&hl=zh-CN) profile.
-
 
 ## 2025
+
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="60px" align="right">
 
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
@@ -18,11 +17,11 @@ _EMNLP 2025 Findings_<br>
 ### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 **Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt<br>
 <span><i>INLG 2025</i> <span style="color:red">(Oral Presentation)</span></span><br>
-[arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/failure)
+[ACL Anthology](https://aclanthology.org/2025.inlg.6/) | [arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/failure)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">
 
-### 🔍Through a Compressed Lens: Investigating the Impact of Quantization on LLM Explainability and Interpretability
+### 🔍Through a Compressed Lens: Investigating The Impact of Quantization on Factual Knowledge Recall
 **Qianli Wang**, Mingyang Wang, Nils Feldhus, Simon Ostermann, Yuan Cao, Hinrich Schütze, Sebastian Möller, Vera Schmitt <br>
 _In submission_<br>
 [arXiv](https://arxiv.org/abs/2505.13963) | _(Code will be publicly available once the paper is published)_
