@@ -11,7 +11,7 @@ title: "Publications"
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt <br>
 _EMNLP 2025 Findings_<br>
-[ACL Anthology](https://aclanthology.org/2025.findings-emnlp.81/) | [arXiv](http://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass)
+[ACL Anthology](https://aclanthology.org/2025.findings-emnlp.29/) | [arXiv](http://arxiv.org/abs/2508.14982) | [GitHub](https://github.com/qiaw99/compass)
 
 ### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 **Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt<br>
