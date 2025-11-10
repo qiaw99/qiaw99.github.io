@@ -6,12 +6,6 @@ title: "Publications"
 ---
 (* denotes equal contribution)
 
-## 2026
-
-### Paper2Figure: Evaluating Automated Schematic Figure Generation and Assessment for Scientific Papers
-Shengyun Si, Jing Yang, Vera Schmitt, Yang Wang, Zihang Wang, **Qianli Wang**, Jiaao Li, Guanyi Liu, Sebastian Möller, Arman Cohan, Yilun Zhao <br>
-_In submission_<br>
-
 ## 2025
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/compass.png?raw=true" width="60px" align="right">
 
@@ -22,7 +16,7 @@ _In submission_<br>
 
 ### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 **Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt<br>
-<span><img src="https://img.shields.io/badge/INLG-2025-blue"><span style="color:red">(Oral Presentation)</span></span><br>
+<span><img src="https://img.shields.io/badge/INLG-2025-blue"><span style="color:red"> (Oral Presentation)</span></span><br>
 [ACL Anthology](https://aclanthology.org/2025.inlg.5/) | [arXiv](https://arxiv.org/abs/2505.13972) | [GitHub](https://github.com/qiaw99/failure)
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">
