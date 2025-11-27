@@ -13,13 +13,12 @@ Full list of publications [![Google Scholar](https://img.shields.io/badge/Google
 
 ### Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt <br>
-<img src="https://img.shields.io/badge/EMNLP Findings-2025-blue"><br>
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-darkred)](https://aclanthology.org/2025.findings-emnlp.29/) &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2508.14982-b31b1b.svg)](http://arxiv.org/abs/2508.14982) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/compass)
+<a href="https://aclanthology.org/2025.findings-emnlp.29/"><img src="https://img.shields.io/badge/EMNLP Findings-2025-blue"></a> &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2508.14982-b31b1b.svg)](http://arxiv.org/abs/2508.14982) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/compass)
 
 ### Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals
 **Qianli Wang**, Van Bach Nguyen, Nils Feldhus, Luis Felipe Villa-Arenas, Christin Seifert, Sebastian Möller, Vera Schmitt<br>
-<span><img src="https://img.shields.io/badge/INLG-2025-blue"><span style="color:red"> (Oral Presentation)</span></span><br>
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-darkred)](https://aclanthology.org/2025.inlg.5/) &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2505.13972-b31b1b.svg)](https://arxiv.org/abs/2505.13972) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/failure)
+<span style="color:red"> (Oral Presentation)</span> <br>
+<span><a href="https://aclanthology.org/2025.inlg-main.5/"><img src="https://img.shields.io/badge/INLG-2025-blue"></a></span> &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2505.13972-b31b1b.svg)](https://arxiv.org/abs/2505.13972) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/failure) 
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/quantization.png?raw=true" width="80px" align="right">
 
@@ -38,13 +37,11 @@ _ICMR 2025 Workshop on Multimedia AI against Disinformation_ <br>
 
 ### FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation
 **Qianli Wang**, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, Vera Schmitt <br>
-<img src="https://img.shields.io/badge/ACL Findings-2025-blue"><br>
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-darkred)](https://aclanthology.org/2025.findings-acl.64/) &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2501.00777-b31b1b.svg)](https://arxiv.org/abs/2501.00777) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/FitCF)
+<a href="https://aclanthology.org/2025.findings-acl.64/"><img src="https://img.shields.io/badge/ACL Findings-2025-blue"></a> &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2501.00777-b31b1b.svg)](https://arxiv.org/abs/2501.00777) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/FitCF)
 
 ### Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem
 **Qianli Wang**, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller, and Vera Schmitt<br>
-*<img src="https://img.shields.io/badge/COLING-2025-blue">*<br>
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-darkred)](https://aclanthology.org/2025.coling-main.77/) &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2409.07123-b31b1b.svg)](https://arxiv.org/abs/2409.07123) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/Cross-Refine)
+<a href="https://aclanthology.org/2025.coling-main.77/"><img src="https://img.shields.io/badge/COLING-2025-blue"></a> &emsp;[![arXiv](https://img.shields.io/badge/arXiv-2409.07123-b31b1b.svg)](https://arxiv.org/abs/2409.07123) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiaw99/Cross-Refine)
 
 ## 2024
 ### AnchorAlign: Self-Explanations Enhancement via Anchored Alignment
@@ -54,8 +51,7 @@ Luis Felipe Villa-Arenas, Ata Nizamoglu, **Qianli Wang**, Sebastian Möller, and
 
 ### CoXQL: A Dataset for Explanation Request Parsing in Conversational XAI Systems
 **Qianli Wang**, Tatiana Anikina*, Nils Feldhus*, Simon Ostermann, and Sebastian Möller <br>
-*<img src="https://img.shields.io/badge/EMNLP Findings-2024-blue">*  <br>
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-darkred)](https://aclanthology.org/2024.findings-emnlp.76/) &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2406.08101-b31b1b.svg)](https://arxiv.org/abs/2406.08101) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DFKI-NLP/CoXQL)  
+<a href="https://aclanthology.org/2024.findings-emnlp.76/"><img src="https://img.shields.io/badge/EMNLP Findings-2024-blue"></a> &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2406.08101-b31b1b.svg)](https://arxiv.org/abs/2406.08101) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DFKI-NLP/CoXQL)  
 
 <img src="https://raw.githubusercontent.com/qiaw99/qiaw99.github.io/main/figures/InstruX_Logo.png?raw=true" width="125px" align="right"> 
 
@@ -70,7 +66,7 @@ Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning W
 ### LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools and Self-Explanations
 **Qianli Wang**, Tatiana Anikina*, Nils Feldhus*, Josef van Genabith, Leonhard Hennig, and Sebastian Möller  
 *NAACL 2024 Workshop on Bridging Human-Computer Interaction and Natural Language Processing (HCI+NLP)*  
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-darkred)](https://aclanthology.org/2024.hcinlp-1.9) &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2401.12576-b31b1b.svg)](https://arxiv.org/abs/2401.12576) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DFKI-NLP/LLMCheckup)  
+<a href="https://aclanthology.org/2024.hcinlp-1.9"><img src="https://img.shields.io/badge/NAACL HCI+NLP-2024-blue"></a> &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2401.12576-b31b1b.svg)](https://arxiv.org/abs/2401.12576) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DFKI-NLP/LLMCheckup)  
 
 
 
@@ -79,6 +75,5 @@ Nils Feldhus, Aliki Anagnostopoulou, **Qianli Wang**, Milad Alshomary, Henning W
 <a href="https://aclanthology.org/2023.findings-emnlp.359/"><img src="https://raw.githubusercontent.com/nfelnlp/nfelnlp.github.io/main/figures/InterroLang_Logo.png?raw=true" width="150px" align="right"></a>  
 ### InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations
 Nils Feldhus, **Qianli Wang**, Tatiana Anikina, Sahil Chopra, Cennet Oguz, and Sebastian Möller  
-<img src="https://img.shields.io/badge/EMNLP Findings-2023-blue"> & *[BlackboxNLP](https://blackboxnlp.github.io/) Workshop*  
-[![ACL](https://img.shields.io/badge/ACL%20Anthology-darkred)](https://aclanthology.org/2023.findings-emnlp.359/) &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2310.05592-b31b1b.svg)](https://arxiv.org/abs/2310.05592) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DFKI-NLP/InterroLang)  
+<a href="https://aclanthology.org/2023.findings-emnlp.359/"><img src="https://img.shields.io/badge/EMNLP Findings-2023-blue"></a> &emsp; [![arXiv](https://img.shields.io/badge/arXiv-2310.05592-b31b1b.svg)](https://arxiv.org/abs/2310.05592) &emsp; [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DFKI-NLP/InterroLang)  
 
